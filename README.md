@@ -2,7 +2,7 @@
 
 使用std::string实现的高精度整数运算模拟。
 
-High-precision simulation of integer operation with std::string.
+High-precision simulation of integer operation implemented with std::string.
 
 ## 使用方法 Usage
 
